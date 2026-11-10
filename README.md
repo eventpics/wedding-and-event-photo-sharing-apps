@@ -6,7 +6,7 @@ Last checked: 2026-11-08. Browse the same data as a table: [event photo sharing 
 
 ## Disclosure
 
-This dataset is maintained by [EventPics](https://event.pics), the photo sharing app for weddings and parties, made by Aigner Software e. U. in Austria. Two of the 26 rows are ours: EventPics and its sister app EventUpload. They follow the same rules as every other row and get no field the others do not have.
+This dataset is maintained by [EventPics](https://event.pics), the photo sharing app for weddings and parties, made by Aigner Software e. U. in Austria. Two of the 26 rows are ours: EventPics and its sister app [EventUpload](https://eventupload.app). They follow the same rules as every other row and get no field the others do not have.
 
 ## Services
 
