@@ -1,0 +1,2079 @@
+{
+ "source": "https://event.pics/en/event-photo-sharing-database/",
+ "license": "CC BY 4.0",
+ "last_checked": "2026-11-08",
+ "providers": [
+  {
+   "slug": "camdeed",
+   "name": "Camdeed",
+   "domain": "camdeed.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, two paid plans only",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "49.90 EUR per event (Celebration, limited time offer, list 99.90)",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "from 200 EUR per month (Corporate, unlimited events)",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event for consumers, monthly subscription for corporate",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no app download required",
+     "s": "https://www.camdeed.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://camdeed.com/#pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Celebration: 49.90 EUR, video",
+     "s": "https://camdeed.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "catchmemo",
+   "name": "Catchmemo",
+   "domain": "catchmemo.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 photos and videos, upload for 1 day, kept 15 days, ZIP download, with Catchmemo branding",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "39 USD one-time (Pro, list 79)",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "99 USD one-time (Premium, list 199)",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, no per-guest fee",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Free: upload for 1 day, saved 15 days; Pro: upload for 14 days, saved 120 days; Premium: upload for 30 days, saved 1 year",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, Live Digital Photo Wall",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "free, in all three plans",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://catchmemo.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://catchmemo.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, upload from the browser, no download, registration or login",
+     "s": "https://catchmemo.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 50 uploads, upload 1d, online 15d, video, slideshow | Pro: 39 USD, 500 uploads, upload 14d, online 120d, video, slideshow | Premium: 99 USD, unlimited uploads, upload 30d, online 1y, video, slideshow",
+     "s": "https://catchmemo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "chivent",
+   "name": "Chivent",
+   "domain": "chivent.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, a 7-day free trial of all features without a card; purchases carry a 14-day money-back guarantee",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "7-day trial with up to 20 photos and videos; downloading everything at once needs a paid plan",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "from 19.00 USD one-time (One event: open 1 month, 100 photos and videos, 1 album)",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "99.99 USD per month (Subscription, 250 GB storage)",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time, build-your-plan; a subscription option is also offered",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "one-time plan open for 1 to 12 months, guests can view, add and download until it closes; free trial 7 days",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, photo wall in every plan",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "not listed on the pricing page",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "yes, data stored by default on servers in the European Union; AI providers in the United States",
+     "s": "https://chivent.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, sets out its legal grounds under the GDPR",
+     "s": "https://chivent.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no app or account needed to view or contribute",
+     "s": "https://chivent.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free trial: trial 7d, 20 uploads, video, slideshow | One event: from 19 USD, upload 1mo, online 1mo, 100 uploads, unlimited guests, video, slideshow | Subscription 50 GB: 39.99 USD/month, online subscription, 50 GB, unlimited events, unlimited guests, slideshow | Subscription 250 GB: 99.99 USD/month, online subscription, 250 GB, unlimited events, unlimited guests, slideshow",
+     "s": "https://chivent.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "eventocam",
+   "name": "Eventocam",
+   "domain": "eventocam.com",
+   "fields": {
+    "free_plan": {
+     "v": "true, a FREE tier listed alongside the two paid ones",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 photos, no videos, unlimited voice messages, 30-day upload window, 60 days of hosting; challenges and moderation as a trial",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "19.95 EUR per event (SILVER, unlimited photos, no videos, 1 year of hosting)",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "39.95 EUR per event (GOLD, unlimited, 2 years of hosting)",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, no monthly subscription, 21% VAT included",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "30-day upload window on every plan; hosting 60 days (Free), 1 year (Silver), 2 years (Gold)",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true, slideshow on an external screen in every plan, Free included",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "not listed on the pricing page",
+     "s": "https://eventocam.com/precios-planes/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "GOLD only; Free, BRONCE and SILVER show 'No'",
+     "s": "https://eventocam.com/precios-planes/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "yes, content stored exclusively in an AWS data centre in Paris, France",
+     "s": "https://eventocam.com/privacidad/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the policy grants equivalent rights but never names the GDPR or RGPD",
+     "s": "https://eventocam.com/privacidad/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no app installation and no registration",
+     "s": "https://www.eventocam.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 50 photos, upload 30d, online 60d, no video, slideshow | Silver: 19.95 EUR, unlimited photos, upload 30d, online 12mo, no video, slideshow | Gold: 39.95 EUR, unlimited photos, upload 30d, online 24mo, video, slideshow",
+     "s": "https://eventocam.com/en/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "eventpics",
+   "name": "EventPics",
+   "domain": "event.pics",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "2 GB (~500 photos)",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "4.99 EUR/month or 49.99 EUR/year (10 GB)",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "29.99 EUR/month or 239.99 EUR/year (200 GB)",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "storage subscription in 5 tiers (10/25/50/100/200 GB), monthly or annual, no minimum term, unlimited events per account",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "free: 6 weeks from instant start, or 2 weeks before to 4 weeks after a planned date; Premium: unlimited",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, live slideshow on a projector or TV with the QR code on screen",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "free, ZIP download of the whole gallery",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "free, review every picture before it appears, with a push notification on pending uploads",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "For EU/EEA users, photos, videos and account data in EU data centres (Cloudflare R2 EU region, Google Cloud europe-west3 in Frankfurt am Main); for users outside the EU/EEA, a geographically nearby provider region. CDN edge nodes may sit outside the EU but hold no permanent copies.",
+     "s": "https://event.pics/en/privacy.html",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 2 GB, unlimited guests, online 4w after-event, video, slideshow | 10 GB: 4.99 EUR/month or 49.99 EUR/year, 10 GB, online subscription, video, slideshow | 25 GB: 9.99 EUR/month or 99.99 EUR/year, 25 GB, online subscription, video, slideshow | 50 GB: 14.99 EUR/month or 149.99 EUR/year, 50 GB, online subscription, video, slideshow | 100 GB: 19.99 EUR/month or 179.99 EUR/year, 100 GB, online subscription, video, slideshow | 200 GB: 29.99 EUR/month or 239.99 EUR/year, 200 GB, online subscription, video, slideshow",
+     "s": "https://event.pics/en/pricing.html",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "eventshare",
+   "name": "EventShare",
+   "domain": "eventshare.io",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "free_limit": {
+     "v": "20 photos, 2 albums, video up to 30 seconds, two weeks of storage",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "47 USD one-time (Plus)",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "97 USD one-time",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "upload and storage period starts on a date of the host's choosing, not the purchase date",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, marked 'Included in free'",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "not listed on the pricing page",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://eventshare.io/policy/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://eventshare.io/policy/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, works in the browser",
+     "s": "https://eventshare.io/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 20 photos, 2 albums, unlimited guests, upload 2w, online 2w, video, slideshow | Plus: 47 USD, 500 photos, 2 albums, unlimited guests, upload 1y, online 1y, video, slideshow | Premium: 97 USD, unlimited photos, unlimited albums, unlimited guests, upload 1y, online 1y, video, slideshow",
+     "s": "https://eventshare.io/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "eventupload",
+   "name": "EventUpload",
+   "domain": "eventupload.app",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://eventupload.app/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "no limits on EventUpload's side, files count against the organizer's Google Drive quota",
+     "s": "https://eventupload.app/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "free, no paid plan",
+     "s": "https://eventupload.app/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "false, not offered",
+     "s": "https://eventupload.app/en/pricing",
+     "d": "2026-10-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "files go straight to the organizer's Google Drive; EventUpload's own servers and database are in Frankfurt (EU)",
+     "s": "https://eventupload.app/en/privacy",
+     "d": "2026-10-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true",
+     "s": "https://eventupload.app/en/privacy",
+     "d": "2026-10-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://eventupload.app/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://eventupload.app/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "plans": {
+     "v": "EventUpload: free, unlimited uploads, online own-drive, no gallery, video, no slideshow",
+     "s": "https://eventupload.app/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "fotify",
+   "name": "Fotify",
+   "domain": "fotify.app",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 photos",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "29.99 EUR per event (Photo Gallery)",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "79.99 EUR per event (Professional Event); add-ons from 4.99 EUR per event",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, buy now use anytime",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Free 7-day upload / 7-day gallery; Photo Gallery 30 / 90 days; Premium 90 / 365 days; Professional 180 / 365 days",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, Live Photo Carousel",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Photo Gallery",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "free, Basic Photo Moderation",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://fotify.app/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, GDPR applies for EEA and UK users",
+     "s": "https://fotify.app/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free Event: free, 50 photos, unlimited guests, upload 7d, online 7d after-event, no video, slideshow | Photo Gallery: 29.99 EUR, unlimited photos, unlimited guests, upload 30d, online 90d after-event, no video, slideshow | Premium Event: 49.99 EUR, unlimited photos, unlimited guests, upload 90d, online 365d after-event, video, slideshow | Professional Event: 79.99 EUR, unlimited photos, unlimited guests, upload 180d, online 365d after-event, video, slideshow",
+     "s": "https://fotify.app/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "guestcam",
+   "name": "GuestCam",
+   "domain": "guestcam.co",
+   "fields": {
+    "free_plan": {
+     "v": "false, two paid packages only",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "43 EUR one-time (Standard, list 48), 6-month upload and 12-month storage",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "86 EUR one-time (Premium, list 95), 12-month upload and 14-month storage",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Standard: 6-month upload / 12-month storage; Premium: 12-month upload / 14-month storage; windows start on the event date",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Standard",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Standard, one-click ZIP in original quality",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://guestcam.co/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://guestcam.co/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, guests scan the QR code or open the event link in their browser",
+     "s": "https://guestcam.co/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Standard: 43 EUR, upload 6mo, online 12mo after-event, unlimited guests, unlimited photos, video, slideshow | Premium: 86 EUR, upload 12mo, online 14mo after-event, unlimited guests, unlimited photos, video, slideshow",
+     "s": "https://guestcam.co/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "guestlense",
+   "name": "Guestlense",
+   "domain": "guestlense.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, three paid packages only",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "49 USD one-time (Digital Guestbook)",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "199 USD one-time (Digital Guestbook plus 30 printed QR cards plus 50 polaroid prints)",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "3 month upload period and 12 month access period, both starting on the event date",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true, live slideshow to display during the event",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "eu_hosting": {
+     "v": "no, AWS servers in the United States; data is transferred out of the EU",
+     "s": "https://www.guestlense.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, sets out data subject rights under the GDPR",
+     "s": "https://www.guestlense.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://guestlense.com#pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://guestlense.com#pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Digital Guestbook: 49 USD, unlimited photos, unlimited guests, upload 3mo, online 12mo after-event, video, slideshow | Digital Guestbook + 30 QR Cards: 99 USD, unlimited photos, unlimited guests, upload 3mo, online 12mo after-event, video, slideshow | Digital Guestbook + 30 QR Cards + 50 Polaroid Prints: 199 USD, unlimited photos, unlimited guests, upload 3mo, online 12mo after-event, video, slideshow",
+     "s": "https://www.guestlense.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "guestpix",
+   "name": "GUESTPIX",
+   "domain": "guestpix.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 photos, 30-day upload window",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "49 USD one-time (Classic)",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "119 USD one-time (Signature Bundle, 3 galleries)",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per gallery",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Classic: 3 months upload + 12 months hosting; Signature: 12 months both; Bundle: 24 months",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "all plans including Free",
+     "s": "https://guestpix.com/free-photo-sharing-app/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Classic (cheapest paid tier)",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "Classic (cheapest paid tier)",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "Australia, United States, United Kingdom, Germany and Netherlands",
+     "s": "https://guestpix.com/privacy-policy/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names the EU GDPR alongside Australian privacy law",
+     "s": "https://guestpix.com/privacy-policy/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 50 photos, unlimited guests, upload 30d, online 30d after-event, no video, slideshow | Classic: 49 USD, unlimited photos, unlimited guests, upload 3mo, online 12mo after-event, video, slideshow | Signature: 89 USD, unlimited photos, unlimited guests, upload 12mo, online 12mo after-event, video, slideshow | Signature Bundle: 119 USD, unlimited photos, unlimited guests, upload 24mo, online 24mo, video, slideshow",
+     "s": "https://guestpix.com/weddings-pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "kululu",
+   "name": "Kululu",
+   "domain": "kululu.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "100 photo and video uploads, 24-hour upload window, kept 7 days, standard quality",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "39 EUR one-time (Plus, excluding taxes)",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "99 EUR one-time (Pro, excluding taxes)",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Free: 24-hour upload window, kept 7 days; Plus: 1-month upload window, kept 3 months; Pro: 3-month upload window, kept 1 year",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true, digital album and real-time slideshow on every plan, Free included",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Plus and above",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "Pro only",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "no, Google Cloud (Firebase) servers in the United States",
+     "s": "https://www.kululu.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names GDPR, CCPA and the Australian Privacy Act",
+     "s": "https://www.kululu.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no apps for the host or the guests, scan the QR code or open the link",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 100 uploads, unlimited guests, 3 albums, upload 1d, online 7d, video, slideshow | Plus: 39 EUR, 500 uploads, unlimited guests, 3 albums, upload 1mo, online 3mo, video, slideshow | Pro: 99 EUR, unlimited uploads, unlimited guests, unlimited albums, upload 3mo, online 1y, video, slideshow",
+     "s": "https://www.kululu.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "livewall",
+   "name": "LiveWall",
+   "domain": "livewall.no",
+   "fields": {
+    "free_plan": {
+     "v": "true, a free tier with a capped wall",
+     "s": "https://livewall.no/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "10 photos on a temporary wall, 100 when registered with an email; kept 24 hours or 7 days",
+     "s": "https://livewall.no/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "19.95 EUR one-time (Plus)",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "49.95 EUR one-time (Signature)",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, three tiers",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Plus and Premium: 3 months upload, 1 year storage; Signature: 1 year upload, 1 year storage",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Plus, slideshow and polaroid wall",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Plus",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "Plus, manual moderation",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "conflicting: the pricing page advertises EU Data Centers, while the privacy policy says personal and usage data sit in Sweden or Norway and content data may also sit in the US, UK, Germany, Sweden, UAE, Singapore, Brazil, South Africa or Australia",
+     "s": "https://livewall.no/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, sets out data subject rights under the GDPR",
+     "s": "https://livewall.no/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, browser camera on any modern smartphone",
+     "s": "https://livewall.no/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 100 photos, online 7d, video | Plus: 19.95 EUR, unlimited photos, 500 guests, upload 3mo, online 12mo after-event, no video, slideshow | Premium: 29.95 EUR, unlimited photos, 500 guests, upload 3mo, online 12mo after-event, video, slideshow | Signature: 49.95 EUR, unlimited photos, 500 guests, upload 12mo, online 12mo after-event, video, slideshow",
+     "s": "https://livewall.no/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "picaggo",
+   "name": "Picaggo",
+   "domain": "picaggo.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "500 MB (~200 photos), unlimited events, unlimited guests",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "9.99 USD one-time (Basic, 2 GB, ~800 photos, valid for 12 months)",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "299.99 USD/year (Elite)",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time payment by storage tier, valid for 12 months, storage shared across unlimited events; Pro and Elite are yearly subscriptions for photographers",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "12 months per paid plan, then a 30-day grace period before photos move to archive storage",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "free, live photo wall on every plan including Free",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "not listed on the pricing page",
+     "s": "https://picaggo.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "Premium",
+     "s": "https://picaggo.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no app download required for guests",
+     "s": "https://picaggo.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 0.5 GB, unlimited events, unlimited guests, slideshow | Basic: 9.99 USD, online 12mo, 2 GB, unlimited events, unlimited guests, video, slideshow | Standard: 23.99 USD, online 12mo, 5 GB, unlimited events, unlimited guests, video, slideshow | Premium: 47.99 USD, online 12mo, 10 GB, unlimited events, unlimited guests, video, slideshow",
+     "s": "https://picaggo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "pixelparty",
+   "name": "PixelParty",
+   "domain": "pixelparty.site",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "8 guests, 20 uploads",
+     "s": "https://europe-west1-pixelpartyapp.cloudfunctions.net/getPricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "price_paid_min": {
+     "v": "34.99 GBP one-time (Classic, up to 500 guests)",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "49.99 GBP one-time (Plus, unlimited guests)",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, not a subscription",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "1 year upload and download (Classic), 2 years (Plus)",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "live_slideshow": {
+     "v": "every paid plan (Classic and Plus), live realtime slideshow",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "not listed on the pricing page",
+     "s": "https://pixelparty.site/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://pixelparty.site/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://pixelparty.site/legal/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://pixelparty.site/legal/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, the upload page opens in the browser",
+     "s": "https://pixelparty.site/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 8 guests, 20 uploads | Classic: 34.99 GBP, online 1y, upload 1y, 500 guests, unlimited uploads, video, slideshow | Plus: 49.99 GBP, online 2y, upload 2y, unlimited guests, unlimited uploads, video, slideshow",
+     "s": "https://www.pixelparty.site/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "pov",
+   "name": "POV",
+   "domain": "pov.camera",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "up to 10 guests",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "4.99 USD per event (personal, up to 25 guests)",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "price_paid_max": {
+     "v": "89.99 USD per event (personal, up to 250 guests); 251+ guests on request",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "billing_model": {
+     "v": "priced by guest count via a calculator; business package adds branding and slideshow",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "business package",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "no, hosted in the United States and intended for US visitors",
+     "s": "https://pov.camera/pov-privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://pov.camera/pov-privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, App Clips on iOS and web on Android",
+     "s": "https://pov.camera/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Up to 10 guests: free, 10 guests | Up to 25 guests: 4.99 USD, 25 guests | Up to 50 guests: 14.99 USD, 50 guests | Up to 100 guests: 34.99 USD, 100 guests | Up to 175 guests: 64.99 USD, 175 guests | Up to 250 guests: 89.99 USD, 250 guests | 251+ guests: price not stated",
+     "s": "https://pov.camera/pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    }
+   }
+  },
+  {
+   "slug": "rompolo",
+   "name": "Rompolo",
+   "domain": "rompolo.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, a 5-day free trial instead",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "19.99 USD one-time (Small gathering, 10 GB, 50 guests)",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "59.99 USD one-time (Full House, 50 GB, 300+ guests)",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per album for 6 months, or a 12-month subscription plan from 39.99 USD",
+     "s": "https://rompolo.com/#faq",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "6 months from the first upload, not from purchase",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Small Gathering, in every paid plan",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Small Gathering, instant download",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated; subprocessors include Cloudflare and Microsoft Azure, some outside the EEA",
+     "s": "https://rompolo.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, relies on adequacy decisions and Standard Contractual Clauses under the GDPR",
+     "s": "https://rompolo.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, contribute through the web browser",
+     "s": "https://rompolo.com/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Trial: trial 5d, 0.1 GB | Small gathering: 19.99 USD, online 6mo, 10 GB, unlimited guests, video, slideshow | Big Celebration: 29.99 USD, online 6mo, 30 GB, unlimited guests, video, slideshow | Full House: 59.99 USD, online 6mo, 50 GB, unlimited guests, video, slideshow | 12-month plan: from 39.99 USD/year, online subscription, unlimited guests, video, slideshow",
+     "s": "https://rompolo.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "scene",
+   "name": "Scene",
+   "domain": "scenedisposable.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "up to 5 guests",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "2.99 USD one-time (up to 10 guests)",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "99.99 USD one-time (largest guest tier)",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, priced by guest count",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated; storage on Supabase, region not disclosed",
+     "s": "https://scenedisposable.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://scenedisposable.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://scenedisposable.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 5 guests, online unlimited | Small: 2.99 USD, 10 guests, online unlimited | Medium: 9.99 USD, 25 guests, online unlimited | Large: 19.99 USD, 50 guests, online unlimited | XL: 39.99 USD, 100 guests, online unlimited | XXL: 59.99 USD, 150 guests, online unlimited | XXXL: 79.99 USD, 200 guests, online unlimited | Unlimited: 99.99 USD, unlimited guests, online unlimited",
+     "s": "https://scenedisposable.com/faq",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "snapeen",
+   "name": "Snapeen",
+   "domain": "snapeen.com",
+   "fields": {
+    "free_plan": {
+     "v": "true",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 photos, 5 videos, uploads until 7 days after the event, gallery 30 days, watermarked QR, no bulk download",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "24.99 USD per event",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "49.99 USD per event",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Free: uploads until 7 days after, gallery 30 days; One-Time Event: uploads until 3 months after, gallery 12 months; Premium Event: uploads until 12 months after, gallery 12 months; storage counts from the event date",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "not listed on the pricing page",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "One-Time Event; the Free plan states 'No bulk download'",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not named; company operates from Serbia",
+     "s": "https://snapeen.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names the EU GDPR and the Serbian data protection law",
+     "s": "https://snapeen.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://snapeen.com/",
+     "d": "2026-09-09",
+     "c": "medium"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 50 photos, upload 7d, online 30d after-event, video | One-Time Event: 24.99 USD, 200 photos, upload 3mo, online 12mo after-event, video | Premium Event: 49.99 USD, unlimited photos, upload 12mo, online 12mo after-event, video",
+     "s": "https://snapeen.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "waldo-photos",
+   "name": "Waldo Photos",
+   "domain": "waldophotos.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, a 7-day free trial on annual plans only",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "7.99 USD per month or 49.99 USD per year (Waldo Plus, 200 GB)",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "49.99 USD one-time (Waldo Gold, 50 GB for a year)",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "subscription, monthly or annual (Waldo Plus), or a one-time payment (Waldo Gold); a single event licence is offered separately",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Waldo Gold: 50 GB event photo and video storage for a year",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated; Amazon S3 named as a vendor, EEA to US transfers covered by a GDPR transfer mechanism",
+     "s": "https://waldophotos.com/terms-of-use/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names the GDPR, UK GDPR and the Swiss Federal Data Protection Act",
+     "s": "https://waldophotos.com/terms-of-use/",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Waldo Plus: 7.99 USD/month or 49.99 USD/year, 200 GB, unlimited albums, unlimited guests, video | Waldo Gold: 49.99 USD, 50 GB, online 1y, video, slideshow",
+     "s": "https://waldophotos.com/pricing/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "wedbox",
+   "name": "Wedbox",
+   "domain": "wedbox.com",
+   "fields": {
+    "free_plan": {
+     "v": "true, free to use; photos are stored free for two months after the wedding",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "unlimited photo and video uploads, full-quality download at any time; stored free until two months after the wedding date",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "price_paid_min": {
+     "v": "2.50 USD per month (storage extension beyond the two free months)",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "price_paid_max": {
+     "v": "49.99 EUR one-time (Premium, original-quality download for everyone plus 5 years of hosting)",
+     "s": "https://wedbox.com/",
+     "d": "2026-09-11",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "free, with an optional storage extension of 2.50 USD per month beyond the two free months",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "event_duration": {
+     "v": "free: stored until two months after the wedding date; storage can then be extended for 2.50 USD per month",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "true",
+     "s": "https://wedbox.com/live-slideshow/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "unknown",
+     "s": "https://wedbox.com",
+     "d": "2026-09-07",
+     "c": "low"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://wedbox.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://wedbox.com/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://wedbox.com",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://wedbox.com",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, online 2mo after-event, unlimited photos, video, slideshow | Storage extension: 2.50 USD/month, online subscription",
+     "s": "https://wedbox.com/",
+     "d": "2026-11-08",
+     "c": "medium"
+    }
+   }
+  },
+  {
+   "slug": "weddies",
+   "name": "Weddies",
+   "domain": "weddies.de",
+   "fields": {
+    "free_plan": {
+     "v": "true, a free tier alongside the two paid durations",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "30 photos, 1 month storage, standard resolution, no video",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "59.99 EUR one-time (Premium 12 months)",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "79.99 EUR one-time (Premium 24 months)",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per event, no subscription",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Basic: 1 month storage; Premium: 12 or 24 months, counted from the 10th uploaded photo",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Premium plans (12 and 24 months)",
+     "s": "https://www.weddies.de/",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "yes, website and data hosted at Hetzner in Germany; some third-party services transfer to the US",
+     "s": "https://www.weddies.de/datenschutz",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, the policy cites Art. 6 DSGVO throughout",
+     "s": "https://www.weddies.de/datenschutz",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false, no guest registration and no app download",
+     "s": "https://www.weddies.net/en/",
+     "d": "2026-09-07",
+     "c": "medium"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://www.weddies.net/en/",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Basic: free, 30 photos, online 1mo, no video | Premium 12 Months: 59.99 EUR, online 12mo, unlimited photos, unlimited guests, video, slideshow | Premium 24 Months: 79.99 EUR, online 24mo, unlimited photos, unlimited guests, video, slideshow",
+     "s": "https://www.weddies.net/en/",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "wedding-arrivals",
+   "name": "Wedding Arrivals",
+   "domain": "weddingarrivals.com",
+   "fields": {
+    "free_plan": {
+     "v": "true, a free trial until the wedding date with 30 photos, no card",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "medium"
+    },
+    "free_limit": {
+     "v": "30 photos, free until the wedding date, no card required",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "49 USD one-time (Big Day, up to 100 guests)",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "119 USD one-time (Weekend, 3 events)",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per package, no subscription",
+     "s": "https://weddingarrivals.com/#faq",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "paid packages: 3 months of uploads and 1 year of album storage, counted from the event date",
+     "s": "https://weddingarrivals.com/#faq",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "all paid packages (from Big Day, 49 USD)",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Big Day, 1 year storage plus ZIP",
+     "s": "https://weddingarrivals.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "Big Day, approve photos before they appear",
+     "s": "https://weddingarrivals.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated, media stored on Cloudflare R2, Images and Stream; providers may process outside the EU/EEA",
+     "s": "https://weddingarrivals.com/legal/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names the GDPR as a legal basis",
+     "s": "https://weddingarrivals.com/legal/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://weddingarrivals.com#pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://weddingarrivals.com#pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free trial: trial until-event, 30 photos | Big Day: 49 USD, upload 3mo, online 1y after-event, 100 guests, unlimited photos, video, slideshow | Complete: 89 USD, upload 3mo, online 1y after-event, unlimited guests, unlimited photos, video, slideshow | Weekend: 119 USD, upload 3mo, online 1y after-event, unlimited guests, unlimited photos, video, slideshow",
+     "s": "https://weddingarrivals.com/#pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "weddingphotoapp",
+   "name": "WeddingPhoto App",
+   "domain": "weddingphotoapp.com",
+   "fields": {
+    "free_plan": {
+     "v": "false",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "39 USD one-time",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "89 USD one-time",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per package",
+     "s": "https://www.weddingphotoapp.com/facts",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "uploads until 15 days (Intimate) / 45 days (Celebration) / 180 days (Forever) after the event date",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Celebration and Forever (from 59 USD)",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "true",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-09-30",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "true",
+     "s": "https://www.weddingphotoapp.com/facts",
+     "d": "2026-09-30",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://www.weddingphotoapp.com/facts",
+     "d": "2026-09-30",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://www.weddingphotoapp.com/facts",
+     "d": "2026-09-30",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Intimate: 39 USD, upload 15d, online 2mo after-event, unlimited photos, unlimited guests, video, no slideshow | Celebration: 59 USD, upload 45d, online 6mo after-event, unlimited photos, unlimited guests, video, slideshow | Forever: 89 USD, upload 180d, online 1y after-event, unlimited photos, unlimited guests, video, slideshow",
+     "s": "https://www.weddingphotoapp.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "wedibox",
+   "name": "Wedibox",
+   "domain": "wedibox.com",
+   "fields": {
+    "free_plan": {
+     "v": "true, marked Always free, no credit card needed",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "free_limit": {
+     "v": "50 guest photo uploads, QR code and share link, scavenger hunt challenges, co-organizer access; no unlimited uploads, no digital guestbook, no RSVP or seating",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "29 USD one-time (Embed, gallery widget for an existing website, 3-month upload window)",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "79 USD one-time (All-In-One, 1-year upload window)",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "free tier plus three one-time per event packages",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "Embed: 3-month upload window, 1 year storage; Wedding: 6 months upload, 1 year storage; All-In-One: 1 year upload, 2 years storage",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Wedding plan",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "zip_download": {
+     "v": "Wedding plan, original quality ZIP",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "moderation": {
+     "v": "not listed on the pricing page",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated in the privacy policy",
+     "s": "https://www.wedibox.com/legal/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "false, the privacy policy does not name the GDPR",
+     "s": "https://www.wedibox.com/legal/privacy-policy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "guest_app_required": {
+     "v": "false",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "qr_access": {
+     "v": "true",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-09-07",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Free: free, 50 photos, no video, no slideshow | Embed: 29 USD, upload 3mo, online 1y, unlimited photos, video | Wedding: 49 USD, upload 6mo, online 1y, unlimited uploads, unlimited albums, video, slideshow | All-In-One: 79 USD, upload 1y, online 2y, unlimited uploads, unlimited albums, video, slideshow",
+     "s": "https://www.wedibox.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  },
+  {
+   "slug": "weduploader",
+   "name": "WedUploader",
+   "domain": "weduploader.com",
+   "fields": {
+    "free_plan": {
+     "v": "false, one paid plan; creating an album leads straight to the paid unlock screen",
+     "s": "https://weduploader.com/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_min": {
+     "v": "39 USD one-time (29 EUR), unlocks the Limitless WedUploader Experience for all albums",
+     "s": "https://weduploader.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "price_paid_max": {
+     "v": "39 USD one-time plus a 19 USD seating chart add-on",
+     "s": "https://weduploader.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "billing_model": {
+     "v": "one-time per account, unlocks premium for all albums; 19 USD seating chart add-on",
+     "s": "https://weduploader.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "event_duration": {
+     "v": "no expiration date",
+     "s": "https://weduploader.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "live_slideshow": {
+     "v": "Premium",
+     "s": "https://weduploader.com/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    },
+    "eu_hosting": {
+     "v": "not stated; company based in Saint Paul, Minnesota",
+     "s": "https://weduploader.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "gdpr_statement": {
+     "v": "true, names itself Data Controller under the GDPR",
+     "s": "https://weduploader.com/privacy",
+     "d": "2026-09-09",
+     "c": "high"
+    },
+    "plans": {
+     "v": "Limitless WedUploader Experience: 29 EUR or 39 USD, unlimited uploads, unlimited guests, unlimited albums, online unlimited, video, slideshow",
+     "s": "https://weduploader.com/en/pricing",
+     "d": "2026-11-08",
+     "c": "high"
+    }
+   }
+  }
+ ]
+}

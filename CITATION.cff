@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Wedding and event photo sharing apps: an open dataset"
+type: dataset
+authors:
+  - name: "EventPics (Aigner Software e. U.)"
+    website: "https://event.pics"
+license: CC-BY-4.0
+url: "https://event.pics/en/event-photo-sharing-database/"
+repository-code: "https://github.com/eventpics/wedding-and-event-photo-sharing-apps"
+date-released: 2026-11-08
+keywords:
+  - event photo sharing
+  - wedding photo sharing
+  - QR code photo upload
+  - market data
