@@ -51,7 +51,7 @@ Only the provider's own pricing, product and help pages count as a source. No re
 
 ## Corrections
 
-If a value is wrong or out of date, open an issue in this repository with the page that says otherwise, or write to support@event.pics. Corrections are applied with their date.
+If a value is wrong or out of date, open an issue in this repository with the page that says otherwise. Corrections are applied with their date.
 
 ## License and citation
 
